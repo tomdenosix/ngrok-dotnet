@@ -11,7 +11,7 @@
 [ci-badge]: https://github.com/tomdenosix/ngrok-dotnet/actions/workflows/ci.yml/badge.svg
 [ci-url]: https://github.com/tomdenosix/ngrok-dotnet/actions/workflows/ci.yml
 
-`ngrok-dotnet` is an unofficial .NEt SDK for ngrok that requires no binaries. Quickly enable secure production-ready connectivity to your applications and services directly from your code.
+`ngrok-dotnet` is an unofficial .NET SDK for ngrok that requires no binaries. Quickly enable secure production-ready connectivity to your applications and services directly from your code.
 
 [ngrok](https://ngrok.com) is a globally distributed gateway that provides secure connectivity for applications and services running in any environment.
 
