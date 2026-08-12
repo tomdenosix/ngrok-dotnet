@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dotnet.ngrok.test/Dotnet.ngrok.test.csproj" />
+  <Project Path="Dotnet.ngrok/Dotnet.ngrok.csproj" />
+</Solution>
